@@ -15,10 +15,11 @@
     "url": "https://github.com/RenatoAdrianodeSouza/aula_back-end/issues"
   },
   "homepage": "https://github.com/RenatoAdrianodeSouza/aula_back-end#readme",
-  "description": "",
+  "description": "Este repositorio é sobre as aulas de back-end, aonde foi feito um pequeno site com ligação com servidor local. # back-end",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.6",
     "nunjucks": "^3.2.2"
-  }
+  },
+  "devDependencies": {}
 }
